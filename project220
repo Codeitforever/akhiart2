@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="Landingspace.css">
+</head>
+<body>
+    <div id="mainwrapper">
+    <header class="sectionOne">
+        <div id="SectionLogo"> 
+            <p>Section Logo</p>
+            
+        </div>
+        <h2 class="mainHeader">This website is<br>awesome</h2>
+        <p class="ecocoin">Thiswebsite intoduce you to the world of<br>
+            ecocoins, harmonizing morality, protection<br>
+             and economics.</p>
+        <div>
+        <a class="firstLink" id="about" href="#">About</a>
+        <a class="firstLink" id="join" href="#">Join</a>
+        <a class="firstLink" id="contact" href="#">Contact</a>
+        <button id="sign">Sign up</button>
+        </div>
+        <div>
+        <img class="gamcoin" src="Images/gamcoin.jpg">
+        </div>
+
+    </header>
+    <section class="SectionTwo">
+        <div>
+        <h2 id="information" >Some random information.</h2>
+        </div>
+       <div class=" images">
+       <figure>
+            <img class="firstImage" src="Images/antilope.jpeg">
+        <figcaption><p>The real African type, call it the antilope.<br>
+            With this coin you can survive in the middle of the<br>
+        jungles of Africa</p></figcaption>
+        </figure>
+       
+          
+        
+        <figure>
+        <img class="secondImage" src="Images/eagle.png"> 
+        <figcaption><p>Here we go. The Eagle, a symbol of trust.<br>
+            With this coin you can penetrate every corner of the<br>
+        continent.</p>
+        </figcaption>
+        </figure>
+         
+      
+
+        <!-- <img calss="thirdImage" src="Images/giraffe.jpg"> -->
+        <figure>
+        <img class="fourthImage" src="Images/whale.jfif">
+        <figcaption><p>The Whale coin. Symbol of power. It buy's all other coins</p>
+        </figcaption>
+        </figure>
+        </div>
+      
+          
+        
+    
+
+        <!-- <div>
+            <h3 class="antilope">The real African type, call it the antilope.<br>
+                With this coin you can survive in the middle of the<br>
+            jungles of Africa</h3>
+            <h3 class="eagle">Here we go. The Eagle, a symbol of trust.<br>
+            With this coin you can penetrate every corner of the<br>
+        continent.</h3>
+        <h3 class="whale">The Whale coin. Symbol of power. It buy's all other coins</h3>
+        </div> -->
+
+
+    </section>
+    
+    <section class="SectionThree">
+        <figure class="quote">
+        <blockquote>I smell the virgin untouched nature, the breeze, trees and rivers<br>
+        Oh Africa, the great land of our mothers. My pure coin will prevail and will<br>
+    penetrate the four courners of the continent.</blockquote>
+    <figcaption> &mdash; Sheriff</figcaption>
+    </figure>
+    </section>
+    <footer class="theEnd">
+        <div class="action">
+        <p id="call">Call to action! It's time!</p>
+        <p id="learn">Sign up to learn more about Ecocoin from the
+        of the jungles of Africa</p>
+       
+        </div>
+        <div>
+        <button class="click">Sign up</button>
+        </div>
+    </footer>
+    <footer class="copyright">
+        <p>Copyright &copy; The boulevard project</p>
+    </footer>
+    </div>
+</body>
+</html>
+
+   
